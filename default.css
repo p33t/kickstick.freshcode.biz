@@ -1,0 +1,11 @@
+body{
+   background-color: #F2F1E4;
+   font-family: sans-serif;
+   margin:20px;
+}
+
+.footer {
+   text-align: center; 
+   font-size: small;
+   color: grey;
+}
